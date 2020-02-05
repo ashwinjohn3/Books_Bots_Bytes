@@ -2,26 +2,23 @@
 The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 ======================================================================
 
-Books, Bots & Bytes
-
-
 The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2017)
 Authors: Trevor Hastie, Robert Tibshirani and Jerome Friedman
-Free online  https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf
+  
+Free online [https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf] (https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+
+This is part of the [Books, Bots &amp; Bytes] (https://github.com/nikbearbrown/Books_Bots_Bytes) book club.
+
+Books, Bots & Bytes creates instructional resources and materials for Nerd books.  For more information see [Books, Bots &amp; Bytes] (https://github.com/nikbearbrown/Books_Bots_Bytes).
+ 
+
+Recommended Texts  
+
+An Introduction to Statistical Learning with Applications in R (2013)  
+Authors: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani  
+Online via SpringerLink (http://link.Springer.com/) [http://link.Springer.com/book/10.1007/978-1-4614-7138-7](http://link.Springer.com/book/10.1007/978-1-4614-7138-7)
 
 
-Recommended Texts
-
-An Introduction to Statistical Learning with Applications in R (2013)
-Authors: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-Free online via SpringerLink (http://link.Springer.com/) http://link.Springer.com/book/10.1007/978-1-4614-7138-7
-
-
-
-
-Books and hacks
-
-We encourage lively debate, passionate discussion, intellectual curiosity, and respectful interactions from all of our group members,
 
 
 
